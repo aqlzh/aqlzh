@@ -10,6 +10,8 @@
 - 📚 Reading more about how the Principles of Computer Composition.
 
 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aqlzh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aqlzh&show_icons=true&theme=Gradient)
 
