@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 
+![](https://github.com/aqlzh/aqlzh/blob/main/github.jpg)
 
 
 - 🔭 I’m currently working on full stack. Recent focus on web Front-end.
@@ -14,4 +15,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aqlzh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aqlzh&show_icons=true&theme=Gradient)
-
