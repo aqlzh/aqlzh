@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on full stack. Recent focus on web Front-end.
 - 🌱 I’m currently learning data structures and algorithms
-- ✍🏻 I write my personal thoughts on Programming & Tech in my [Personal Blog](https://blog.csdn.net/QuantumYou)
+- ✍🏻 I write my personal thoughts on Programming & Tech in my Personal Blog
 - ⚡ Target: Catch up with the wall of subway station 
 - 📚 Reading more about  the Principles of Computer Composition.
 
