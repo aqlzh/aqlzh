@@ -50,8 +50,9 @@
 | :crown:  [EnglishNotes](https://github.com/aqlzh/EnglishNotes) |
 
 
-| Repository    :house: | :rocket:[JavaEE-Next](https://github.com/aqlzh/JavaEE-Next) | :art:[FrontEnd-Interaction](https://github.com/aqlzh/FrontEnd-Interaction) |      | :chart_with_upwards_trend: [DataStructure-C](https://github.com/aqlzh/DataStructure-C) |      | :computer:[ComputerOrganization](https://github.com/aqlzh/ComputerOrganization) | :minidisc:[OperateSystem](https://github.com/aqlzh/OperateSystem) | :satellite:[ComputerNetwork](https://github.com/aqlzh/ComputerNetwork) | :crown:  [EnglishNotes](https://github.com/aqlzh/EnglishNotes) |
-| --------------------- | ----------------------------------------------------------- | ------------------------------------------------------------ | ---- | ------------------------------------------------------------ | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Repository    :house: | :rocket:[JavaEE-Next](https://github.com/aqlzh/JavaEE-Next) | :art:[FrontEnd-Interaction](https://github.com/aqlzh/FrontEnd-Interaction) | :chart_with_upwards_trend: [DataStructure-C](https://github.com/aqlzh/DataStructure-C) | :computer:[ComputerOrganization](https://github.com/aqlzh/ComputerOrganization) | :minidisc:[OperateSystem](https://github.com/aqlzh/OperateSystem) | :satellite:[ComputerNetwork](https://github.com/aqlzh/ComputerNetwork) | :crown:  [EnglishNotes](https://github.com/aqlzh/EnglishNotes) |
+| --------------------- | ----------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+
 
 
 
