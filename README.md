@@ -10,6 +10,8 @@
 - ⚡ Target: Catch up with the wall of subway station 
 - 📚 Reading more about  rudimentary knowledge of computer 
 
+![](http://antzuhl.cn:4000/get/@aqlzh.readme)
+
 ### 🔨Languages
 
 <p>
