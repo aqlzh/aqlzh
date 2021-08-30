@@ -34,21 +34,10 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aqlzh&show_icons=true&theme=Gradient)
 
-### :door: 传送门   
+### :door: 传送门   我爱计算机科学！ :love_letter:
  ![](https://visitor-badge.glitch.me/badge?page_id=aqlzh.readme)   
  ![](https://github.com/aqlzh/DataStructure-Java/blob/main/image/CS.png)  
   
-| Repository    :house:                                        |     
-| ------------------------------------------------------------ |
-| :rocket:[JavaEE-Next](https://github.com/aqlzh/JavaEE-Next)  |
-| :art:[FrontEnd-Interaction](https://github.com/aqlzh/FrontEnd-Interaction) |
-|                                                              |
-| :chart_with_upwards_trend: [DataStructure-C](https://github.com/aqlzh/DataStructure-C) |
-| :computer:[ComputerOrganization](https://github.com/aqlzh/ComputerOrganization) |
-| :minidisc:[OperateSystem](https://github.com/aqlzh/OperateSystem) |
-| :satellite:[ComputerNetwork](https://github.com/aqlzh/ComputerNetwork) |
-| :crown:  [EnglishNotes](https://github.com/aqlzh/EnglishNotes) |
-
 
 | :rocket:[JavaEE-Next](https://github.com/aqlzh/JavaEE-Next) | :art:[FrontEnd-Interaction](https://github.com/aqlzh/FrontEnd-Interaction) | :chart_with_upwards_trend: [DataStructure-C](https://github.com/aqlzh/DataStructure-C) | :computer:[ComputerOrganization](https://github.com/aqlzh/ComputerOrganization) | :minidisc:[OperateSystem](https://github.com/aqlzh/OperateSystem) | :satellite:[ComputerNetwork](https://github.com/aqlzh/ComputerNetwork) | :crown:  [EnglishNotes](https://github.com/aqlzh/EnglishNotes) |
 | ----------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
