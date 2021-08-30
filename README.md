@@ -10,7 +10,8 @@
 - ⚡ Target: Catch up with the wall of subway station 
 - 📚 Reading more about  rudimentary knowledge of computer 
 
-![](http://antzuhl.cn:4000/get/@aqlzh.readme)
+
+
 
 ### 🔨Languages
 
@@ -35,6 +36,9 @@
     
 </p>
 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aqlzh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aqlzh&show_icons=true&theme=Gradient)
+
+![](https://visitor-badge.glitch.me/badge?page_id=aqlzh.readme)
