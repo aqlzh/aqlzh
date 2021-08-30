@@ -36,17 +36,16 @@
 
 ### :door: 传送门   
  ![](https://visitor-badge.glitch.me/badge?page_id=aqlzh.readme)
-
-| Repository    :house:                                        | Outline   :pencil:     |
-| ------------------------------------------------------------ | ---------------------- |
-| :chart_with_upwards_trend: [DataStructure-C](https://github.com/aqlzh/DataStructure-C)  | 考研数据结构笔录       |
-| :computer:[ComputerOrganization](https://github.com/aqlzh/ComputerOrganization) | 考研计算机组成原理笔录  |
-| :minidisc:[OperateSystem](https://github.com/aqlzh/OperateSystem)      | 考研操作系统笔录       |
-| :satellite:[ComputerNetwork](https://github.com/aqlzh/ComputerNetwork)  | 考研计算机网络笔录     |
-| :crown:  [EnglishNotes](https://github.com/aqlzh/EnglishNotes)        | 英语学习笔录         | 
-|                                                              |                        |
-| :art:[FrontEnd-Interaction](https://github.com/aqlzh/FrontEnd-Interaction) | 大前端学习总线         |
-| :rocket:[JavaEE-Next](https://github.com/aqlzh/JavaEE-Next)          | 大后端学习总线         |
+| Repository    :house:                                        |
+| ------------------------------------------------------------ |
+| :rocket:[JavaEE-Next](https://github.com/aqlzh/JavaEE-Next)  |
+| :art:[FrontEnd-Interaction](https://github.com/aqlzh/FrontEnd-Interaction) |
+|                                                              |
+| :chart_with_upwards_trend: [DataStructure-C](https://github.com/aqlzh/DataStructure-C) |
+| :computer:[ComputerOrganization](https://github.com/aqlzh/ComputerOrganization) |
+| :minidisc:[OperateSystem](https://github.com/aqlzh/OperateSystem) |
+| :satellite:[ComputerNetwork](https://github.com/aqlzh/ComputerNetwork) |
+| :crown:  [EnglishNotes](https://github.com/aqlzh/EnglishNotes) |
 
 
 
