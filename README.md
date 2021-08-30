@@ -34,4 +34,20 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aqlzh&show_icons=true&theme=Gradient)
 
-![](https://visitor-badge.glitch.me/badge?page_id=aqlzh.readme)
+### :door: 传送门   
+ ![](https://visitor-badge.glitch.me/badge?page_id=aqlzh.readme)
+
+| Repository    :house:                                        | Outline   :pencil:     |
+| ------------------------------------------------------------ | ---------------------- |
+| [DataStructure-C](https://github.com/aqlzh/DataStructure-C)  | 考研数据结构笔录       |:chart_with_upwards_trend:
+| [ComputerOrganization](https://github.com/aqlzh/ComputerOrganization) | 考研计算机组成原理笔录  |:computer:
+| [OperateSystem](https://github.com/aqlzh/OperateSystem)      | 考研操作系统笔录       |:minidisc:
+| [ComputerNetwork](https://github.com/aqlzh/ComputerNetwork)  | 考研计算机网络笔录     |:satellite:
+| [EnglishNotes](https://github.com/aqlzh/EnglishNotes)        | 英语学习笔录         | :crown:  
+|                                                              |                        |
+| [FrontEnd-Interaction](https://github.com/aqlzh/FrontEnd-Interaction) | 大前端学习总线         |
+| [JavaEE-Next](https://github.com/aqlzh/JavaEE-Next)          | 大后端学习总线         |
+
+
+
+
