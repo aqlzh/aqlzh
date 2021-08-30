@@ -27,14 +27,7 @@
   
 </p>
 
-### 👩‍💻IDES
 
-<p>
-  	<img alt="vsc" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-    <img alt="vs" src="https://img.shields.io/badge/Visual_Studio_2019-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
-    <img alt="idea" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
-    
-</p>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aqlzh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
