@@ -28,8 +28,6 @@
  
  
 
-<img width="50%" height="240px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqlzh&&hide=html" />
-</html>
 
 ### 🔨Languages
 
@@ -49,16 +47,7 @@
 
 
  
-   <!--machine-learning-->
-```mermaid
-graph TD;
-    machine-learning-->Data;
-    machine-learning-->Algorithms;
-    machine-learning-->Statistical-Models;
-    machine-learning-->Feature-Engineering;
-    machine-learning-->Evaluation-Metrics;
-    machine-learning-->Deployment;
-   ```
+
 
 
 
